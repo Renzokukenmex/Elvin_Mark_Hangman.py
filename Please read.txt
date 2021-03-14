@@ -1,0 +1,9 @@
+I've edited the hangman example to allow for upper case entries.
+
+The udacity course does not offer a certificate for full completion. I've added screenshots of all the modules completed.
+
+I was advised completing the Udacity course would be acceptable for the claim, if this is not the case then I'd like to continue with the submission anyway.
+
+Kind Regards
+
+Mark
